@@ -4,6 +4,7 @@
 @import "{{ site.theme }}";
 
 a.btns {
+	display:block;
 	-webkit-font-smoothing: antialiased;
 	background: url(../images/downarrow.png) no-repeat;
 	font-weight: normal;
