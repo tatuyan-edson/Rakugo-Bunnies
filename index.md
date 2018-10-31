@@ -1,4 +1,4 @@
-![落語バニーズ](https://tatuyan-edson.github.io/img/Logo.png "落語バニーズ")
+![落語バニーズ](./img/Logo.png "落語バニーズ")
 
 ## 公演情報
 
