@@ -2,7 +2,7 @@
 
 ## 公演情報
 
-![第1回落語バニーズの会](./img/first.png "第1回落語バニーズの会")
+![もしもしBunnies東西交流会](./img/Chirashi/Tozai2019.png "もしもしBunnies東西交流会")
 
 ## 落語バニーズって？
 
