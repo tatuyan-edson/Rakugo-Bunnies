@@ -1,5 +1,11 @@
 # 過去の公演
 
+## 落語バニーズミニ・お試しオンライン
+
+* ところ：[Youtube](https://youtu.be/r1fyQAO4QkQ)にて配信します。URLは [https://youtu.be/r1fyQAO4QkQ](https://youtu.be/r1fyQAO4QkQ)
+
+![落語バニーズミニ・お試しオンライン](./img/Chirashi/Online00告知チラシ.png "落語バニーズミニ・お試しオンライン")
+
 ## もしもしBunnies東西交流会
 
 ![もしもしBunnies東西交流会](./img/Chirashi/Tozai2019.png "もしもしBunnies東西交流会")
