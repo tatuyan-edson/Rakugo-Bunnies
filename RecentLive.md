@@ -1,10 +1,9 @@
 # 最新の公演情報
 
-下記の公演は終了いたしました。お越しいただきありがとうございました！
-
-[アーカイブはこちらからご覧いただけます。](https://www.youtube.com/playlist?list=PLvqA8nD_0MQDVnXbsvo5EPC6F85xt53lp)
-
 ![第4回落語バニーズの会](./img/Chirashi/Fourth.png "第4回落語バニーズの会")
+
+公演は終了いたしました。お運びありがとうございました。
+[アーカイブはこちらからご覧いただけます。](https://www.youtube.com/playlist?list=PLvqA8nD_0MQDVnXbsvo5EPC6F85xt53lp)
 
 * とき：2024年3月20日(水・祝) 13:30〜 (15分前開場)　16時頃終演予定(途中休憩あり）
 * ところ：[兵庫県立文化体育館(神戸常盤アリーナ)](https://www.hyogobuntai.jp/) 本館1階 研修室C
