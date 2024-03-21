@@ -1,10 +1,11 @@
 ![落語バニーズ](./img/Logo.png "落語バニーズ")
 
+
+## 公演情報
+
 公演は終了いたしました。お越しいただきありがとうございました！
 
 [アーカイブはこちらからご覧いただけます。](https://www.youtube.com/playlist?list=PLvqA8nD_0MQDVnXbsvo5EPC6F85xt53lp)
-
-## 公演情報
 
 ![第4回落語バニーズの会](./img/Chirashi/Fourth.png "第4回落語バニーズの会")
 
