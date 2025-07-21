@@ -1,7 +1,7 @@
 # 最新の公演情報
 
-** 無事に終演いたしました。お運びありがとうございました！ **
-** アーカイブは[こちらから](https://www.youtube.com/playlist?list=PLvqA8nD_0MQCEC_1xRm0PhtJOON6gpLtE)。機器不調につき1,2席目がございません、お詫び申し上げます。**
+**無事に終演いたしました。お運びありがとうございました！**
+**アーカイブは[こちらから](https://www.youtube.com/playlist?list=PLvqA8nD_0MQCEC_1xRm0PhtJOON6gpLtE)。機器不調につき1,2席目がございません、お詫び申し上げます。**
 
 ![第5回落語バニーズの会](./img/Chirashi/5th.png "第5回落語バニーズの会")
 
